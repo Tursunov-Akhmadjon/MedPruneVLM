@@ -1,0 +1,2084 @@
+[
+  {
+    "sample_id": "pope_xn_00000",
+    "target_image": "data/images/slake/imgs/xmlab102/source.jpg",
+    "source_image": "data/vqa_rad_images/test/0334.jpg",
+    "question": "is there vascular pathology in this image?"
+  },
+  {
+    "sample_id": "pope_xn_00001",
+    "target_image": "data/images/slake/imgs/xmlab103/source.jpg",
+    "source_image": "data/images/slake/imgs/xmlab428/source.jpg",
+    "question": "Is this a CT?"
+  },
+  {
+    "sample_id": "pope_xn_00002",
+    "target_image": "data/images/slake/imgs/xmlab105/source.jpg",
+    "source_image": "data/vqa_rad_images/test/0254.jpg",
+    "question": "does the liver look normal?"
+  },
+  {
+    "sample_id": "pope_xn_00003",
+    "target_image": "data/images/slake/imgs/xmlab124/source.jpg",
+    "source_image": "data/images/slake/imgs/xmlab428/source.jpg",
+    "question": "Is this a CT?"
+  },
+  {
+    "sample_id": "pope_xn_00004",
+    "target_image": "data/images/slake/imgs/xmlab13/source.jpg",
+    "source_image": "data/vqa_rad_images/test/0135.jpg",
+    "question": "is the cardiac silhouette within normal size limits?"
+  },
+  {
+    "sample_id": "pope_xn_00005",
+    "target_image": "data/images/slake/imgs/xmlab130/source.jpg",
+    "source_image": "data/images/slake/imgs/xmlab102/source.jpg",
+    "question": "Does the picture contain lung?"
+  },
+  {
+    "sample_id": "pope_xn_00006",
+    "target_image": "data/images/slake/imgs/xmlab135/source.jpg",
+    "source_image": "data/images/slake/imgs/xmlab314/source.jpg",
+    "question": "Does the lung look abnormal?"
+  },
+  {
+    "sample_id": "pope_xn_00007",
+    "target_image": "data/images/slake/imgs/xmlab142/source.jpg",
+    "source_image": "data/vqa_rad_images/test/0035.jpg",
+    "question": "is there small bowel thickening present?"
+  },
+  {
+    "sample_id": "pope_xn_00008",
+    "target_image": "data/images/slake/imgs/xmlab147/source.jpg",
+    "source_image": "data/images/slake/imgs/xmlab77/source.jpg",
+    "question": "Is the brain healthy?"
+  },
+  {
+    "sample_id": "pope_xn_00009",
+    "target_image": "data/images/slake/imgs/xmlab148/source.jpg",
+    "source_image": "data/images/slake/imgs/xmlab344/source.jpg",
+    "question": "Can nodule be observed on the upper right lung in this picture?"
+  },
+  {
+    "sample_id": "pope_xn_00010",
+    "target_image": "data/images/slake/imgs/xmlab152/source.jpg",
+    "source_image": "data/vqa_rad_images/test/0188.jpg",
+    "question": "can a patient with a metal implant get a cxr?"
+  },
+  {
+    "sample_id": "pope_xn_00011",
+    "target_image": "data/images/slake/imgs/xmlab159/source.jpg",
+    "source_image": "data/vqa_rad_images/test/0227.jpg",
+    "question": "is cardiomegaly present?"
+  },
+  {
+    "sample_id": "pope_xn_00012",
+    "target_image": "data/images/slake/imgs/xmlab160/source.jpg",
+    "source_image": "data/images/slake/imgs/xmlab13/source.jpg",
+    "question": "Does the picture contain liver?"
+  },
+  {
+    "sample_id": "pope_xn_00013",
+    "target_image": "data/images/slake/imgs/xmlab169/source.jpg",
+    "source_image": "data/images/slake/imgs/xmlab605/source.jpg",
+    "question": "Does the picture contain bladder?"
+  },
+  {
+    "sample_id": "pope_xn_00014",
+    "target_image": "data/images/slake/imgs/xmlab173/source.jpg",
+    "source_image": "data/images/slake/imgs/xmlab224/source.jpg",
+    "question": "Does the picture contain lung?"
+  },
+  {
+    "sample_id": "pope_xn_00015",
+    "target_image": "data/images/slake/imgs/xmlab18/source.jpg",
+    "source_image": "data/vqa_rad_images/test/0227.jpg",
+    "question": "is cardiomegaly present?"
+  },
+  {
+    "sample_id": "pope_xn_00016",
+    "target_image": "data/images/slake/imgs/xmlab185/source.jpg",
+    "source_image": "data/images/slake/imgs/xmlab264/source.jpg",
+    "question": "Does the picture contain kidney?"
+  },
+  {
+    "sample_id": "pope_xn_00017",
+    "target_image": "data/images/slake/imgs/xmlab208/source.jpg",
+    "source_image": "data/images/slake/imgs/xmlab135/source.jpg",
+    "question": "Are there abnormalities in this image?"
+  },
+  {
+    "sample_id": "pope_xn_00018",
+    "target_image": "data/images/slake/imgs/xmlab219/source.jpg",
+    "source_image": "data/images/slake/imgs/xmlab235/source.jpg",
+    "question": "Does the picture contain liver?"
+  },
+  {
+    "sample_id": "pope_xn_00019",
+    "target_image": "data/images/slake/imgs/xmlab224/source.jpg",
+    "source_image": "data/vqa_rad_images/test/0437.jpg",
+    "question": "is the gallbladder present?"
+  },
+  {
+    "sample_id": "pope_xn_00020",
+    "target_image": "data/images/slake/imgs/xmlab234/source.jpg",
+    "source_image": "data/vqa_rad_images/test/0079.jpg",
+    "question": "are there hyper attenuating material along the aortic walls?"
+  },
+  {
+    "sample_id": "pope_xn_00021",
+    "target_image": "data/images/slake/imgs/xmlab235/source.jpg",
+    "source_image": "data/images/slake/imgs/xmlab401/source.jpg",
+    "question": "Are there some organs controlling heartbeat and breathing in this image?"
+  },
+  {
+    "sample_id": "pope_xn_00022",
+    "target_image": "data/images/slake/imgs/xmlab24/source.jpg",
+    "source_image": "data/images/slake/imgs/xmlab529/source.jpg",
+    "question": "Is this an MRI scan?"
+  },
+  {
+    "sample_id": "pope_xn_00023",
+    "target_image": "data/images/slake/imgs/xmlab25/source.jpg",
+    "source_image": "data/images/slake/imgs/xmlab429/source.jpg",
+    "question": "Is this a transverse section?"
+  },
+  {
+    "sample_id": "pope_xn_00024",
+    "target_image": "data/images/slake/imgs/xmlab250/source.jpg",
+    "source_image": "data/images/slake/imgs/xmlab130/source.jpg",
+    "question": "Are there abnormalities in this image?"
+  },
+  {
+    "sample_id": "pope_xn_00025",
+    "target_image": "data/images/slake/imgs/xmlab252/source.jpg",
+    "source_image": "data/images/slake/imgs/xmlab264/source.jpg",
+    "question": "Does the picture contain kidney?"
+  },
+  {
+    "sample_id": "pope_xn_00026",
+    "target_image": "data/images/slake/imgs/xmlab253/source.jpg",
+    "source_image": "data/vqa_rad_images/test/0253.jpg",
+    "question": "are liver findings normal?"
+  },
+  {
+    "sample_id": "pope_xn_00027",
+    "target_image": "data/images/slake/imgs/xmlab264/source.jpg",
+    "source_image": "data/images/slake/imgs/xmlab234/source.jpg",
+    "question": "Does the picture contain liver?"
+  },
+  {
+    "sample_id": "pope_xn_00028",
+    "target_image": "data/images/slake/imgs/xmlab269/source.jpg",
+    "source_image": "data/images/slake/imgs/xmlab142/source.jpg",
+    "question": "Are there abnormalities in this image?"
+  },
+  {
+    "sample_id": "pope_xn_00029",
+    "target_image": "data/images/slake/imgs/xmlab274/source.jpg",
+    "source_image": "data/images/slake/imgs/xmlab173/source.jpg",
+    "question": "Are there abnormalities in this image?"
+  },
+  {
+    "sample_id": "pope_xn_00030",
+    "target_image": "data/images/slake/imgs/xmlab299/source.jpg",
+    "source_image": "data/images/slake/imgs/xmlab578/source.jpg",
+    "question": "Does the esophagus exist in this picture?"
+  },
+  {
+    "sample_id": "pope_xn_00031",
+    "target_image": "data/images/slake/imgs/xmlab304/source.jpg",
+    "source_image": "data/vqa_rad_images/test/0414.jpg",
+    "question": "does this look like a healthy liver?"
+  },
+  {
+    "sample_id": "pope_xn_00032",
+    "target_image": "data/images/slake/imgs/xmlab311/source.jpg",
+    "source_image": "data/images/slake/imgs/xmlab208/source.jpg",
+    "question": "Does the picture contain kidney?"
+  },
+  {
+    "sample_id": "pope_xn_00033",
+    "target_image": "data/images/slake/imgs/xmlab312/source.jpg",
+    "source_image": "data/images/slake/imgs/xmlab274/source.jpg",
+    "question": "Does the picture contain lung?"
+  },
+  {
+    "sample_id": "pope_xn_00034",
+    "target_image": "data/images/slake/imgs/xmlab314/source.jpg",
+    "source_image": "data/vqa_rad_images/test/0321.jpg",
+    "question": "are the bronchial airways enlarged?"
+  },
+  {
+    "sample_id": "pope_xn_00035",
+    "target_image": "data/images/slake/imgs/xmlab320/source.jpg",
+    "source_image": "data/vqa_rad_images/test/0010.jpg",
+    "question": "is this an axial image?"
+  },
+  {
+    "sample_id": "pope_xn_00036",
+    "target_image": "data/images/slake/imgs/xmlab329/source.jpg",
+    "source_image": "data/images/slake/imgs/xmlab374/source.jpg",
+    "question": "Is this a coronal plane?"
+  },
+  {
+    "sample_id": "pope_xn_00037",
+    "target_image": "data/images/slake/imgs/xmlab338/source.jpg",
+    "source_image": "data/images/slake/imgs/xmlab250/source.jpg",
+    "question": "Does the picture contain lung?"
+  },
+  {
+    "sample_id": "pope_xn_00038",
+    "target_image": "data/images/slake/imgs/xmlab344/source.jpg",
+    "source_image": "data/vqa_rad_images/test/0108.jpg",
+    "question": "is this consistent with an acute infarction?"
+  },
+  {
+    "sample_id": "pope_xn_00039",
+    "target_image": "data/images/slake/imgs/xmlab350/source.jpg",
+    "source_image": "data/vqa_rad_images/test/0356.jpg",
+    "question": "was this patient given iv contrast?"
+  },
+  {
+    "sample_id": "pope_xn_00040",
+    "target_image": "data/images/slake/imgs/xmlab357/source.jpg",
+    "source_image": "data/vqa_rad_images/test/0349.jpg",
+    "question": "is there a hypodensity located in the liver?"
+  },
+  {
+    "sample_id": "pope_xn_00041",
+    "target_image": "data/images/slake/imgs/xmlab361/source.jpg",
+    "source_image": "data/images/slake/imgs/xmlab525/source.jpg",
+    "question": "Do the organs in the image exist in the head?"
+  },
+  {
+    "sample_id": "pope_xn_00042",
+    "target_image": "data/images/slake/imgs/xmlab367/source.jpg",
+    "source_image": "data/images/slake/imgs/xmlab483/source.jpg",
+    "question": "Is this a study of the head?"
+  },
+  {
+    "sample_id": "pope_xn_00043",
+    "target_image": "data/images/slake/imgs/xmlab374/source.jpg",
+    "source_image": "data/images/slake/imgs/xmlab385/source.jpg",
+    "question": "Can effusion be observed on the lower left lung in this picture?"
+  },
+  {
+    "sample_id": "pope_xn_00044",
+    "target_image": "data/images/slake/imgs/xmlab375/source.jpg",
+    "source_image": "data/vqa_rad_images/test/0229.jpg",
+    "question": "are gallstones identifiable?"
+  },
+  {
+    "sample_id": "pope_xn_00045",
+    "target_image": "data/images/slake/imgs/xmlab378/source.jpg",
+    "source_image": "data/images/slake/imgs/xmlab344/source.jpg",
+    "question": "Does the patient have any abnormalities?"
+  },
+  {
+    "sample_id": "pope_xn_00046",
+    "target_image": "data/images/slake/imgs/xmlab385/source.jpg",
+    "source_image": "data/images/slake/imgs/xmlab269/source.jpg",
+    "question": "Does the picture contain lung?"
+  },
+  {
+    "sample_id": "pope_xn_00047",
+    "target_image": "data/images/slake/imgs/xmlab386/source.jpg",
+    "source_image": "data/images/slake/imgs/xmlab629/source.jpg",
+    "question": "Do any of the organs in the picture belong to the digestive system?"
+  },
+  {
+    "sample_id": "pope_xn_00048",
+    "target_image": "data/images/slake/imgs/xmlab401/source.jpg",
+    "source_image": "data/images/slake/imgs/xmlab429/source.jpg",
+    "question": "Do any of the organs in the picture belong to the nervous system?"
+  },
+  {
+    "sample_id": "pope_xn_00049",
+    "target_image": "data/images/slake/imgs/xmlab405/source.jpg",
+    "source_image": "data/images/slake/imgs/xmlab124/source.jpg",
+    "question": "Are there abnormalities in this image?"
+  },
+  {
+    "sample_id": "pope_xn_00050",
+    "target_image": "data/images/slake/imgs/xmlab407/source.jpg",
+    "source_image": "data/images/slake/imgs/xmlab224/source.jpg",
+    "question": "Does the picture contain liver?"
+  },
+  {
+    "sample_id": "pope_xn_00051",
+    "target_image": "data/images/slake/imgs/xmlab427/source.jpg",
+    "source_image": "data/images/slake/imgs/xmlab525/source.jpg",
+    "question": "Is this a study of the head?"
+  },
+  {
+    "sample_id": "pope_xn_00052",
+    "target_image": "data/images/slake/imgs/xmlab428/source.jpg",
+    "source_image": "data/images/slake/imgs/xmlab234/source.jpg",
+    "question": "Does the picture contain spleen?"
+  },
+  {
+    "sample_id": "pope_xn_00053",
+    "target_image": "data/images/slake/imgs/xmlab429/source.jpg",
+    "source_image": "data/vqa_rad_images/test/0235.jpg",
+    "question": "is there slight dilation of the right renal pelvis?"
+  },
+  {
+    "sample_id": "pope_xn_00054",
+    "target_image": "data/images/slake/imgs/xmlab436/source.jpg",
+    "source_image": "data/vqa_rad_images/test/0342.jpg",
+    "question": "is this patient in a supine position?"
+  },
+  {
+    "sample_id": "pope_xn_00055",
+    "target_image": "data/images/slake/imgs/xmlab442/source.jpg",
+    "source_image": "data/vqa_rad_images/test/0278.jpg",
+    "question": "is the abdominal aorta within normal size limits?"
+  },
+  {
+    "sample_id": "pope_xn_00056",
+    "target_image": "data/images/slake/imgs/xmlab447/source.jpg",
+    "source_image": "data/images/slake/imgs/xmlab274/source.jpg",
+    "question": "Does the picture contain spleen?"
+  },
+  {
+    "sample_id": "pope_xn_00057",
+    "target_image": "data/images/slake/imgs/xmlab468/source.jpg",
+    "source_image": "data/vqa_rad_images/test/0229.jpg",
+    "question": "are gallstones identifiable?"
+  },
+  {
+    "sample_id": "pope_xn_00058",
+    "target_image": "data/images/slake/imgs/xmlab469/source.jpg",
+    "source_image": "data/images/slake/imgs/xmlab525/source.jpg",
+    "question": "Do the organs in the image exist in the head?"
+  },
+  {
+    "sample_id": "pope_xn_00059",
+    "target_image": "data/images/slake/imgs/xmlab471/source.jpg",
+    "source_image": "data/images/slake/imgs/xmlab24/source.jpg",
+    "question": "Does the picture contain spleen?"
+  },
+  {
+    "sample_id": "pope_xn_00060",
+    "target_image": "data/images/slake/imgs/xmlab473/source.jpg",
+    "source_image": "data/images/slake/imgs/xmlab429/source.jpg",
+    "question": "Is this a transverse section?"
+  },
+  {
+    "sample_id": "pope_xn_00061",
+    "target_image": "data/images/slake/imgs/xmlab474/source.jpg",
+    "source_image": "data/images/slake/imgs/xmlab573/source.jpg",
+    "question": "Is this a transverse section?"
+  },
+  {
+    "sample_id": "pope_xn_00062",
+    "target_image": "data/images/slake/imgs/xmlab483/source.jpg",
+    "source_image": "data/images/slake/imgs/xmlab401/source.jpg",
+    "question": "Are there some organs controlling heartbeat and breathing in this image?"
+  },
+  {
+    "sample_id": "pope_xn_00063",
+    "target_image": "data/images/slake/imgs/xmlab49/source.jpg",
+    "source_image": "data/vqa_rad_images/test/0053.jpg",
+    "question": "is there a widened mediastinum?"
+  },
+  {
+    "sample_id": "pope_xn_00064",
+    "target_image": "data/images/slake/imgs/xmlab495/source.jpg",
+    "source_image": "data/vqa_rad_images/test/0107.jpg",
+    "question": "is there an acute infarction?"
+  },
+  {
+    "sample_id": "pope_xn_00065",
+    "target_image": "data/images/slake/imgs/xmlab498/source.jpg",
+    "source_image": "data/images/slake/imgs/xmlab24/source.jpg",
+    "question": "Does the picture contain spleen?"
+  },
+  {
+    "sample_id": "pope_xn_00066",
+    "target_image": "data/images/slake/imgs/xmlab506/source.jpg",
+    "source_image": "data/images/slake/imgs/xmlab224/source.jpg",
+    "question": "Does the picture contain lung?"
+  },
+  {
+    "sample_id": "pope_xn_00067",
+    "target_image": "data/images/slake/imgs/xmlab508/source.jpg",
+    "source_image": "data/vqa_rad_images/test/0230.jpg",
+    "question": "is air present in the bowels?"
+  },
+  {
+    "sample_id": "pope_xn_00068",
+    "target_image": "data/images/slake/imgs/xmlab513/source.jpg",
+    "source_image": "data/vqa_rad_images/test/0365.jpg",
+    "question": "is there flattening of the left hemidiaphragm?"
+  },
+  {
+    "sample_id": "pope_xn_00069",
+    "target_image": "data/images/slake/imgs/xmlab525/source.jpg",
+    "source_image": "data/images/slake/imgs/xmlab407/source.jpg",
+    "question": "Does the picture contain mandible?"
+  },
+  {
+    "sample_id": "pope_xn_00070",
+    "target_image": "data/images/slake/imgs/xmlab529/source.jpg",
+    "source_image": "data/images/slake/imgs/xmlab252/source.jpg",
+    "question": "Does the picture contain liver?"
+  },
+  {
+    "sample_id": "pope_xn_00071",
+    "target_image": "data/images/slake/imgs/xmlab53/source.jpg",
+    "source_image": "data/images/slake/imgs/xmlab269/source.jpg",
+    "question": "Does the picture contain lung?"
+  },
+  {
+    "sample_id": "pope_xn_00072",
+    "target_image": "data/images/slake/imgs/xmlab532/source.jpg",
+    "source_image": "data/vqa_rad_images/test/0090.jpg",
+    "question": "are there calcifications present on the abdominal aorta?"
+  },
+  {
+    "sample_id": "pope_xn_00073",
+    "target_image": "data/images/slake/imgs/xmlab538/source.jpg",
+    "source_image": "data/images/slake/imgs/xmlab350/source.jpg",
+    "question": "Do the organs in the image exist in the chest?"
+  },
+  {
+    "sample_id": "pope_xn_00074",
+    "target_image": "data/images/slake/imgs/xmlab543/source.jpg",
+    "source_image": "data/images/slake/imgs/xmlab554/source.jpg",
+    "question": "Does the picture contain the organ which has the effect of digesting food?"
+  },
+  {
+    "sample_id": "pope_xn_00075",
+    "target_image": "data/images/slake/imgs/xmlab548/source.jpg",
+    "source_image": "data/images/slake/imgs/xmlab350/source.jpg",
+    "question": "Is/Are there abnormalities in the patient's left lung?"
+  },
+  {
+    "sample_id": "pope_xn_00076",
+    "target_image": "data/images/slake/imgs/xmlab554/source.jpg",
+    "source_image": "data/images/slake/imgs/xmlab586/source.jpg",
+    "question": "Does the picture contain spinal cord?"
+  },
+  {
+    "sample_id": "pope_xn_00077",
+    "target_image": "data/images/slake/imgs/xmlab557/source.jpg",
+    "source_image": "data/images/slake/imgs/xmlab274/source.jpg",
+    "question": "Does the picture contain lung?"
+  },
+  {
+    "sample_id": "pope_xn_00078",
+    "target_image": "data/images/slake/imgs/xmlab561/source.jpg",
+    "source_image": "data/vqa_rad_images/test/0036.jpg",
+    "question": "are the kidneys normal?"
+  },
+  {
+    "sample_id": "pope_xn_00079",
+    "target_image": "data/images/slake/imgs/xmlab573/source.jpg",
+    "source_image": "data/vqa_rad_images/test/0305.jpg",
+    "question": "is the appendix enlarged?"
+  },
+  {
+    "sample_id": "pope_xn_00080",
+    "target_image": "data/images/slake/imgs/xmlab578/source.jpg",
+    "source_image": "data/images/slake/imgs/xmlab548/source.jpg",
+    "question": "Does the lung exist in this picture?"
+  },
+  {
+    "sample_id": "pope_xn_00081",
+    "target_image": "data/images/slake/imgs/xmlab58/source.jpg",
+    "source_image": "data/images/slake/imgs/xmlab253/source.jpg",
+    "question": "Does the picture contain lung?"
+  },
+  {
+    "sample_id": "pope_xn_00082",
+    "target_image": "data/images/slake/imgs/xmlab580/source.jpg",
+    "source_image": "data/images/slake/imgs/xmlab219/source.jpg",
+    "question": "Does this image look normal?"
+  },
+  {
+    "sample_id": "pope_xn_00083",
+    "target_image": "data/images/slake/imgs/xmlab586/source.jpg",
+    "source_image": "data/vqa_rad_images/test/0063.jpg",
+    "question": "is there a mass"
+  },
+  {
+    "sample_id": "pope_xn_00084",
+    "target_image": "data/images/slake/imgs/xmlab604/source.jpg",
+    "source_image": "data/images/slake/imgs/xmlab543/source.jpg",
+    "question": "Do any of the organs in the picture belong to the digestive system?"
+  },
+  {
+    "sample_id": "pope_xn_00085",
+    "target_image": "data/images/slake/imgs/xmlab605/source.jpg",
+    "source_image": "data/vqa_rad_images/test/0300.jpg",
+    "question": "are there ekg leads on this patient?"
+  },
+  {
+    "sample_id": "pope_xn_00086",
+    "target_image": "data/images/slake/imgs/xmlab622/source.jpg",
+    "source_image": "data/vqa_rad_images/test/0058.jpg",
+    "question": "is there fluid in the lung?"
+  },
+  {
+    "sample_id": "pope_xn_00087",
+    "target_image": "data/images/slake/imgs/xmlab628/source.jpg",
+    "source_image": "data/images/slake/imgs/xmlab320/source.jpg",
+    "question": "Can cardiomegaly be observed on the heart in this picture?"
+  },
+  {
+    "sample_id": "pope_xn_00088",
+    "target_image": "data/images/slake/imgs/xmlab629/source.jpg",
+    "source_image": "data/images/slake/imgs/xmlab264/source.jpg",
+    "question": "Does the picture contain kidney?"
+  },
+  {
+    "sample_id": "pope_xn_00089",
+    "target_image": "data/images/slake/imgs/xmlab634/source.jpg",
+    "source_image": "data/images/slake/imgs/xmlab269/source.jpg",
+    "question": "Does the picture contain spleen?"
+  },
+  {
+    "sample_id": "pope_xn_00090",
+    "target_image": "data/images/slake/imgs/xmlab71/source.jpg",
+    "source_image": "data/vqa_rad_images/test/0090.jpg",
+    "question": "are there calcifications present on the abdominal aorta?"
+  },
+  {
+    "sample_id": "pope_xn_00091",
+    "target_image": "data/images/slake/imgs/xmlab77/source.jpg",
+    "source_image": "data/images/slake/imgs/xmlab147/source.jpg",
+    "question": "Are there abnormalities in this image?"
+  },
+  {
+    "sample_id": "pope_xn_00092",
+    "target_image": "data/images/slake/imgs/xmlab82/source.jpg",
+    "source_image": "data/images/slake/imgs/xmlab361/source.jpg",
+    "question": "Is this image taken via X-Ray?"
+  },
+  {
+    "sample_id": "pope_xn_00093",
+    "target_image": "data/images/slake/imgs/xmlab85/source.jpg",
+    "source_image": "data/vqa_rad_images/test/0293.jpg",
+    "question": "is this a contrast-enhanced ct?"
+  },
+  {
+    "sample_id": "pope_xn_00094",
+    "target_image": "data/images/slake/imgs/xmlab90/source.jpg",
+    "source_image": "data/images/slake/imgs/xmlab77/source.jpg",
+    "question": "Does the picture contain brian?"
+  },
+  {
+    "sample_id": "pope_xn_00095",
+    "target_image": "data/images/slake/imgs/xmlab93/source.jpg",
+    "source_image": "data/vqa_rad_images/test/0178.jpg",
+    "question": "can a mass in the pancreatic head cause a liver injury?"
+  },
+  {
+    "sample_id": "pope_xn_00096",
+    "target_image": "data/vqa_rad_images/test/0000.jpg",
+    "source_image": "data/vqa_rad_images/test/0056.jpg",
+    "question": "is there cardiomegaly?"
+  },
+  {
+    "sample_id": "pope_xn_00097",
+    "target_image": "data/vqa_rad_images/test/0001.jpg",
+    "source_image": "data/images/slake/imgs/xmlab269/source.jpg",
+    "question": "Does the picture contain lung?"
+  },
+  {
+    "sample_id": "pope_xn_00098",
+    "target_image": "data/vqa_rad_images/test/0002.jpg",
+    "source_image": "data/images/slake/imgs/xmlab401/source.jpg",
+    "question": "Are there some organs controlling heartbeat and breathing in this image?"
+  },
+  {
+    "sample_id": "pope_xn_00099",
+    "target_image": "data/vqa_rad_images/test/0005.jpg",
+    "source_image": "data/vqa_rad_images/test/0207.jpg",
+    "question": "are there clearly defined cardiac borders in this image?"
+  },
+  {
+    "sample_id": "pope_xn_00100",
+    "target_image": "data/vqa_rad_images/test/0009.jpg",
+    "source_image": "data/images/slake/imgs/xmlab405/source.jpg",
+    "question": "Does the ears exist in this picture?"
+  },
+  {
+    "sample_id": "pope_xn_00101",
+    "target_image": "data/vqa_rad_images/test/0010.jpg",
+    "source_image": "data/images/slake/imgs/xmlab386/source.jpg",
+    "question": "Can effusion be observed on the lower left lung in this picture?"
+  },
+  {
+    "sample_id": "pope_xn_00102",
+    "target_image": "data/vqa_rad_images/test/0013.jpg",
+    "source_image": "data/images/slake/imgs/xmlab253/source.jpg",
+    "question": "Does this image look normal?"
+  },
+  {
+    "sample_id": "pope_xn_00103",
+    "target_image": "data/vqa_rad_images/test/0014.jpg",
+    "source_image": "data/images/slake/imgs/xmlab58/source.jpg",
+    "question": "Does the picture contain brian?"
+  },
+  {
+    "sample_id": "pope_xn_00104",
+    "target_image": "data/vqa_rad_images/test/0015.jpg",
+    "source_image": "data/images/slake/imgs/xmlab604/source.jpg",
+    "question": "Does the picture contain bladder?"
+  },
+  {
+    "sample_id": "pope_xn_00105",
+    "target_image": "data/vqa_rad_images/test/0018.jpg",
+    "source_image": "data/images/slake/imgs/xmlab219/source.jpg",
+    "question": "Does the picture contain lung?"
+  },
+  {
+    "sample_id": "pope_xn_00106",
+    "target_image": "data/vqa_rad_images/test/0019.jpg",
+    "source_image": "data/images/slake/imgs/xmlab436/source.jpg",
+    "question": "Do the organs in the image exist in the head?"
+  },
+  {
+    "sample_id": "pope_xn_00107",
+    "target_image": "data/vqa_rad_images/test/0021.jpg",
+    "source_image": "data/images/slake/imgs/xmlab525/source.jpg",
+    "question": "Is this a study of the head?"
+  },
+  {
+    "sample_id": "pope_xn_00108",
+    "target_image": "data/vqa_rad_images/test/0023.jpg",
+    "source_image": "data/vqa_rad_images/test/0340.jpg",
+    "question": "is the appendix non-enlarged?"
+  },
+  {
+    "sample_id": "pope_xn_00109",
+    "target_image": "data/vqa_rad_images/test/0024.jpg",
+    "source_image": "data/images/slake/imgs/xmlab235/source.jpg",
+    "question": "Does the picture contain spleen?"
+  },
+  {
+    "sample_id": "pope_xn_00110",
+    "target_image": "data/vqa_rad_images/test/0026.jpg",
+    "source_image": "data/vqa_rad_images/test/0231.jpg",
+    "question": "is there bowel gas?"
+  },
+  {
+    "sample_id": "pope_xn_00111",
+    "target_image": "data/vqa_rad_images/test/0027.jpg",
+    "source_image": "data/images/slake/imgs/xmlab85/source.jpg",
+    "question": "Does the picture contain lung?"
+  },
+  {
+    "sample_id": "pope_xn_00112",
+    "target_image": "data/vqa_rad_images/test/0030.jpg",
+    "source_image": "data/vqa_rad_images/test/0212.jpg",
+    "question": "is there a left apical pneumothorax?"
+  },
+  {
+    "sample_id": "pope_xn_00113",
+    "target_image": "data/vqa_rad_images/test/0031.jpg",
+    "source_image": "data/vqa_rad_images/test/0057.jpg",
+    "question": "is the small bowel appropriately identified with gi contrast?"
+  },
+  {
+    "sample_id": "pope_xn_00114",
+    "target_image": "data/vqa_rad_images/test/0033.jpg",
+    "source_image": "data/images/slake/imgs/xmlab629/source.jpg",
+    "question": "Is there colon in the image?"
+  },
+  {
+    "sample_id": "pope_xn_00115",
+    "target_image": "data/vqa_rad_images/test/0034.jpg",
+    "source_image": "data/vqa_rad_images/test/0039.jpg",
+    "question": "can the lateral ventricles be seen?"
+  },
+  {
+    "sample_id": "pope_xn_00116",
+    "target_image": "data/vqa_rad_images/test/0035.jpg",
+    "source_image": "data/vqa_rad_images/test/0064.jpg",
+    "question": "is a mass present in this xray?"
+  },
+  {
+    "sample_id": "pope_xn_00117",
+    "target_image": "data/vqa_rad_images/test/0036.jpg",
+    "source_image": "data/vqa_rad_images/test/0038.jpg",
+    "question": "are the lateral ventricles visible?"
+  },
+  {
+    "sample_id": "pope_xn_00118",
+    "target_image": "data/vqa_rad_images/test/0037.jpg",
+    "source_image": "data/images/slake/imgs/xmlab350/source.jpg",
+    "question": "Do the organs in the image exist in the chest?"
+  },
+  {
+    "sample_id": "pope_xn_00119",
+    "target_image": "data/vqa_rad_images/test/0038.jpg",
+    "source_image": "data/images/slake/imgs/xmlab90/source.jpg",
+    "question": "Is the lung healthy?"
+  },
+  {
+    "sample_id": "pope_xn_00120",
+    "target_image": "data/vqa_rad_images/test/0039.jpg",
+    "source_image": "data/images/slake/imgs/xmlab304/source.jpg",
+    "question": "Is/Are there abnormalities in the patient's right lung?"
+  },
+  {
+    "sample_id": "pope_xn_00121",
+    "target_image": "data/vqa_rad_images/test/0042.jpg",
+    "source_image": "data/vqa_rad_images/test/0231.jpg",
+    "question": "is there bowel gas?"
+  },
+  {
+    "sample_id": "pope_xn_00122",
+    "target_image": "data/vqa_rad_images/test/0043.jpg",
+    "source_image": "data/images/slake/imgs/xmlab367/source.jpg",
+    "question": "Is this image taken via X-Ray?"
+  },
+  {
+    "sample_id": "pope_xn_00123",
+    "target_image": "data/vqa_rad_images/test/0044.jpg",
+    "source_image": "data/vqa_rad_images/test/0109.jpg",
+    "question": "is this a ct?"
+  },
+  {
+    "sample_id": "pope_xn_00124",
+    "target_image": "data/vqa_rad_images/test/0045.jpg",
+    "source_image": "data/vqa_rad_images/test/0431.jpg",
+    "question": "is the diaphragm clearly visualized on both sides of the thorax?"
+  },
+  {
+    "sample_id": "pope_xn_00125",
+    "target_image": "data/vqa_rad_images/test/0046.jpg",
+    "source_image": "data/images/slake/imgs/xmlab219/source.jpg",
+    "question": "Does the picture contain liver?"
+  },
+  {
+    "sample_id": "pope_xn_00126",
+    "target_image": "data/vqa_rad_images/test/0047.jpg",
+    "source_image": "data/images/slake/imgs/xmlab538/source.jpg",
+    "question": "Does the picture contain the organ which has the effect of discharging waste?"
+  },
+  {
+    "sample_id": "pope_xn_00127",
+    "target_image": "data/vqa_rad_images/test/0048.jpg",
+    "source_image": "data/vqa_rad_images/test/0328.jpg",
+    "question": "are the costophrenic angles preserved?"
+  },
+  {
+    "sample_id": "pope_xn_00128",
+    "target_image": "data/vqa_rad_images/test/0051.jpg",
+    "source_image": "data/images/slake/imgs/xmlab304/source.jpg",
+    "question": "Is/Are there abnormalities in the patient's right lung?"
+  },
+  {
+    "sample_id": "pope_xn_00129",
+    "target_image": "data/vqa_rad_images/test/0052.jpg",
+    "source_image": "data/vqa_rad_images/test/0073.jpg",
+    "question": "are there increased vascular markings"
+  },
+  {
+    "sample_id": "pope_xn_00130",
+    "target_image": "data/vqa_rad_images/test/0053.jpg",
+    "source_image": "data/images/slake/imgs/xmlab386/source.jpg",
+    "question": "Can effusion be observed on the lower left lung in this picture?"
+  },
+  {
+    "sample_id": "pope_xn_00131",
+    "target_image": "data/vqa_rad_images/test/0054.jpg",
+    "source_image": "data/vqa_rad_images/test/0226.jpg",
+    "question": "is the heart enlarged?"
+  },
+  {
+    "sample_id": "pope_xn_00132",
+    "target_image": "data/vqa_rad_images/test/0055.jpg",
+    "source_image": "data/vqa_rad_images/test/0079.jpg",
+    "question": "are there hyper attenuating material along the aortic walls?"
+  },
+  {
+    "sample_id": "pope_xn_00133",
+    "target_image": "data/vqa_rad_images/test/0056.jpg",
+    "source_image": "data/vqa_rad_images/test/0407.jpg",
+    "question": "are >12 ribs present in the image?"
+  },
+  {
+    "sample_id": "pope_xn_00134",
+    "target_image": "data/vqa_rad_images/test/0057.jpg",
+    "source_image": "data/vqa_rad_images/test/0415.jpg",
+    "question": "is the liver normal?"
+  },
+  {
+    "sample_id": "pope_xn_00135",
+    "target_image": "data/vqa_rad_images/test/0058.jpg",
+    "source_image": "data/images/slake/imgs/xmlab374/source.jpg",
+    "question": "Are there abnormalities in this image?"
+  },
+  {
+    "sample_id": "pope_xn_00136",
+    "target_image": "data/vqa_rad_images/test/0059.jpg",
+    "source_image": "data/vqa_rad_images/test/0341.jpg",
+    "question": "is the appendix normal in size?"
+  },
+  {
+    "sample_id": "pope_xn_00137",
+    "target_image": "data/vqa_rad_images/test/0060.jpg",
+    "source_image": "data/vqa_rad_images/test/0115.jpg",
+    "question": "is the trachea midline?"
+  },
+  {
+    "sample_id": "pope_xn_00138",
+    "target_image": "data/vqa_rad_images/test/0061.jpg",
+    "source_image": "data/vqa_rad_images/test/0446.jpg",
+    "question": "is there subcutaneous air present in the right neck?"
+  },
+  {
+    "sample_id": "pope_xn_00139",
+    "target_image": "data/vqa_rad_images/test/0063.jpg",
+    "source_image": "data/vqa_rad_images/test/0046.jpg",
+    "question": "was the patient positioned appropriately \twithout tilting?"
+  },
+  {
+    "sample_id": "pope_xn_00140",
+    "target_image": "data/vqa_rad_images/test/0064.jpg",
+    "source_image": "data/images/slake/imgs/xmlab235/source.jpg",
+    "question": "Does the picture contain spleen?"
+  },
+  {
+    "sample_id": "pope_xn_00141",
+    "target_image": "data/vqa_rad_images/test/0068.jpg",
+    "source_image": "data/vqa_rad_images/test/0227.jpg",
+    "question": "is cardiomegaly present?"
+  },
+  {
+    "sample_id": "pope_xn_00142",
+    "target_image": "data/vqa_rad_images/test/0069.jpg",
+    "source_image": "data/images/slake/imgs/xmlab580/source.jpg",
+    "question": "Does the picture contain heart?"
+  },
+  {
+    "sample_id": "pope_xn_00143",
+    "target_image": "data/vqa_rad_images/test/0070.jpg",
+    "source_image": "data/images/slake/imgs/xmlab224/source.jpg",
+    "question": "Does the picture contain lung?"
+  },
+  {
+    "sample_id": "pope_xn_00144",
+    "target_image": "data/vqa_rad_images/test/0073.jpg",
+    "source_image": "data/vqa_rad_images/test/0190.jpg",
+    "question": "is the cardiac contour normal?"
+  },
+  {
+    "sample_id": "pope_xn_00145",
+    "target_image": "data/vqa_rad_images/test/0074.jpg",
+    "source_image": "data/images/slake/imgs/xmlab90/source.jpg",
+    "question": "Does the picture contain lung?"
+  },
+  {
+    "sample_id": "pope_xn_00146",
+    "target_image": "data/vqa_rad_images/test/0079.jpg",
+    "source_image": "data/images/slake/imgs/xmlab605/source.jpg",
+    "question": "Does the picture contain rectum?"
+  },
+  {
+    "sample_id": "pope_xn_00147",
+    "target_image": "data/vqa_rad_images/test/0083.jpg",
+    "source_image": "data/images/slake/imgs/xmlab473/source.jpg",
+    "question": "Is this a transverse section?"
+  },
+  {
+    "sample_id": "pope_xn_00148",
+    "target_image": "data/vqa_rad_images/test/0084.jpg",
+    "source_image": "data/images/slake/imgs/xmlab605/source.jpg",
+    "question": "Does the picture contain the organ which has the effect of excreting feces?"
+  },
+  {
+    "sample_id": "pope_xn_00149",
+    "target_image": "data/vqa_rad_images/test/0087.jpg",
+    "source_image": "data/images/slake/imgs/xmlab24/source.jpg",
+    "question": "Does the picture contain spleen?"
+  },
+  {
+    "sample_id": "pope_xn_00150",
+    "target_image": "data/vqa_rad_images/test/0090.jpg",
+    "source_image": "data/vqa_rad_images/test/0343.jpg",
+    "question": "is the patient lying supine?"
+  },
+  {
+    "sample_id": "pope_xn_00151",
+    "target_image": "data/vqa_rad_images/test/0091.jpg",
+    "source_image": "data/images/slake/imgs/xmlab407/source.jpg",
+    "question": "Do the organs in the image exist in the head?"
+  },
+  {
+    "sample_id": "pope_xn_00152",
+    "target_image": "data/vqa_rad_images/test/0093.jpg",
+    "source_image": "data/vqa_rad_images/test/0087.jpg",
+    "question": "can the optic nerve be visualized in this mri image?"
+  },
+  {
+    "sample_id": "pope_xn_00153",
+    "target_image": "data/vqa_rad_images/test/0094.jpg",
+    "source_image": "data/images/slake/imgs/xmlab311/source.jpg",
+    "question": "Can mass be observed on the lower left lung in this picture?"
+  },
+  {
+    "sample_id": "pope_xn_00154",
+    "target_image": "data/vqa_rad_images/test/0099.jpg",
+    "source_image": "data/vqa_rad_images/test/0170.jpg",
+    "question": "is there a hypodense mass in the liver"
+  },
+  {
+    "sample_id": "pope_xn_00155",
+    "target_image": "data/vqa_rad_images/test/0100.jpg",
+    "source_image": "data/images/slake/imgs/xmlab580/source.jpg",
+    "question": "Does the picture contain the organ that could promote blood flow?"
+  },
+  {
+    "sample_id": "pope_xn_00156",
+    "target_image": "data/vqa_rad_images/test/0101.jpg",
+    "source_image": "data/vqa_rad_images/test/0349.jpg",
+    "question": "is there a hypodensity located in the liver?"
+  },
+  {
+    "sample_id": "pope_xn_00157",
+    "target_image": "data/vqa_rad_images/test/0107.jpg",
+    "source_image": "data/vqa_rad_images/test/0070.jpg",
+    "question": "is the brain swollen?"
+  },
+  {
+    "sample_id": "pope_xn_00158",
+    "target_image": "data/vqa_rad_images/test/0108.jpg",
+    "source_image": "data/images/slake/imgs/xmlab304/source.jpg",
+    "question": "Is/Are there abnormalities in the patient's right lung?"
+  },
+  {
+    "sample_id": "pope_xn_00159",
+    "target_image": "data/vqa_rad_images/test/0109.jpg",
+    "source_image": "data/images/slake/imgs/xmlab82/source.jpg",
+    "question": "Does the picture contain lung?"
+  },
+  {
+    "sample_id": "pope_xn_00160",
+    "target_image": "data/vqa_rad_images/test/0112.jpg",
+    "source_image": "data/images/slake/imgs/xmlab580/source.jpg",
+    "question": "Does the picture contain the organ that could promote blood flow?"
+  },
+  {
+    "sample_id": "pope_xn_00161",
+    "target_image": "data/vqa_rad_images/test/0113.jpg",
+    "source_image": "data/vqa_rad_images/test/0254.jpg",
+    "question": "does the liver look normal?"
+  },
+  {
+    "sample_id": "pope_xn_00162",
+    "target_image": "data/vqa_rad_images/test/0114.jpg",
+    "source_image": "data/images/slake/imgs/xmlab468/source.jpg",
+    "question": "Is this a study of the head?"
+  },
+  {
+    "sample_id": "pope_xn_00163",
+    "target_image": "data/vqa_rad_images/test/0115.jpg",
+    "source_image": "data/vqa_rad_images/test/0305.jpg",
+    "question": "is the appendix enlarged?"
+  },
+  {
+    "sample_id": "pope_xn_00164",
+    "target_image": "data/vqa_rad_images/test/0116.jpg",
+    "source_image": "data/images/slake/imgs/xmlab374/source.jpg",
+    "question": "Can pneumonia be observed on the upper right lung in this picture?"
+  },
+  {
+    "sample_id": "pope_xn_00165",
+    "target_image": "data/vqa_rad_images/test/0118.jpg",
+    "source_image": "data/vqa_rad_images/test/0368.jpg",
+    "question": "is this in the posterior anterior plane?"
+  },
+  {
+    "sample_id": "pope_xn_00166",
+    "target_image": "data/vqa_rad_images/test/0124.jpg",
+    "source_image": "data/images/slake/imgs/xmlab77/source.jpg",
+    "question": "Does the picture contain brian?"
+  },
+  {
+    "sample_id": "pope_xn_00167",
+    "target_image": "data/vqa_rad_images/test/0129.jpg",
+    "source_image": "data/vqa_rad_images/test/0038.jpg",
+    "question": "are the lateral ventricles visible?"
+  },
+  {
+    "sample_id": "pope_xn_00168",
+    "target_image": "data/vqa_rad_images/test/0130.jpg",
+    "source_image": "data/images/slake/imgs/xmlab350/source.jpg",
+    "question": "Is this a coronal plane?"
+  },
+  {
+    "sample_id": "pope_xn_00169",
+    "target_image": "data/vqa_rad_images/test/0131.jpg",
+    "source_image": "data/images/slake/imgs/xmlab344/source.jpg",
+    "question": "Does the patient have any abnormalities?"
+  },
+  {
+    "sample_id": "pope_xn_00170",
+    "target_image": "data/vqa_rad_images/test/0135.jpg",
+    "source_image": "data/images/slake/imgs/xmlab269/source.jpg",
+    "question": "Does the picture contain liver?"
+  },
+  {
+    "sample_id": "pope_xn_00171",
+    "target_image": "data/vqa_rad_images/test/0138.jpg",
+    "source_image": "data/images/slake/imgs/xmlab235/source.jpg",
+    "question": "Does the picture contain lung?"
+  },
+  {
+    "sample_id": "pope_xn_00172",
+    "target_image": "data/vqa_rad_images/test/0139.jpg",
+    "source_image": "data/images/slake/imgs/xmlab407/source.jpg",
+    "question": "Does the picture contain mandible?"
+  },
+  {
+    "sample_id": "pope_xn_00173",
+    "target_image": "data/vqa_rad_images/test/0140.jpg",
+    "source_image": "data/vqa_rad_images/test/0051.jpg",
+    "question": "do you see hylar lymphadenopathy in this image?"
+  },
+  {
+    "sample_id": "pope_xn_00174",
+    "target_image": "data/vqa_rad_images/test/0146.jpg",
+    "source_image": "data/images/slake/imgs/xmlab269/source.jpg",
+    "question": "Does the picture contain lung?"
+  },
+  {
+    "sample_id": "pope_xn_00175",
+    "target_image": "data/vqa_rad_images/test/0150.jpg",
+    "source_image": "data/images/slake/imgs/xmlab525/source.jpg",
+    "question": "Is this a study of the head?"
+  },
+  {
+    "sample_id": "pope_xn_00176",
+    "target_image": "data/vqa_rad_images/test/0151.jpg",
+    "source_image": "data/vqa_rad_images/test/0388.jpg",
+    "question": "is the gi tract is highlighted by contrast?"
+  },
+  {
+    "sample_id": "pope_xn_00177",
+    "target_image": "data/vqa_rad_images/test/0157.jpg",
+    "source_image": "data/images/slake/imgs/xmlab173/source.jpg",
+    "question": "Are there abnormalities in this image?"
+  },
+  {
+    "sample_id": "pope_xn_00178",
+    "target_image": "data/vqa_rad_images/test/0163.jpg",
+    "source_image": "data/images/slake/imgs/xmlab557/source.jpg",
+    "question": "Does the picture contain the organ which has the effect of digesting food?"
+  },
+  {
+    "sample_id": "pope_xn_00179",
+    "target_image": "data/vqa_rad_images/test/0164.jpg",
+    "source_image": "data/vqa_rad_images/test/0046.jpg",
+    "question": "was the patient positioned appropriately \twithout tilting?"
+  },
+  {
+    "sample_id": "pope_xn_00180",
+    "target_image": "data/vqa_rad_images/test/0165.jpg",
+    "source_image": "data/vqa_rad_images/test/0207.jpg",
+    "question": "are there clearly defined cardiac borders in this image?"
+  },
+  {
+    "sample_id": "pope_xn_00181",
+    "target_image": "data/vqa_rad_images/test/0166.jpg",
+    "source_image": "data/images/slake/imgs/xmlab513/source.jpg",
+    "question": "Do the organs in the image exist in the head?"
+  },
+  {
+    "sample_id": "pope_xn_00182",
+    "target_image": "data/vqa_rad_images/test/0168.jpg",
+    "source_image": "data/images/slake/imgs/xmlab299/source.jpg",
+    "question": "Is/Are there abnormalities in the patient's right lung?"
+  },
+  {
+    "sample_id": "pope_xn_00183",
+    "target_image": "data/vqa_rad_images/test/0170.jpg",
+    "source_image": "data/images/slake/imgs/xmlab304/source.jpg",
+    "question": "Is this a study of the chest?"
+  },
+  {
+    "sample_id": "pope_xn_00184",
+    "target_image": "data/vqa_rad_images/test/0173.jpg",
+    "source_image": "data/vqa_rad_images/test/0246.jpg",
+    "question": "is there enlargement of the right renal pelvis?"
+  },
+  {
+    "sample_id": "pope_xn_00185",
+    "target_image": "data/vqa_rad_images/test/0174.jpg",
+    "source_image": "data/images/slake/imgs/xmlab224/source.jpg",
+    "question": "Does the picture contain liver?"
+  },
+  {
+    "sample_id": "pope_xn_00186",
+    "target_image": "data/vqa_rad_images/test/0175.jpg",
+    "source_image": "data/vqa_rad_images/test/0305.jpg",
+    "question": "is the appendix enlarged?"
+  },
+  {
+    "sample_id": "pope_xn_00187",
+    "target_image": "data/vqa_rad_images/test/0176.jpg",
+    "source_image": "data/images/slake/imgs/xmlab252/source.jpg",
+    "question": "Does the picture contain kidney?"
+  },
+  {
+    "sample_id": "pope_xn_00188",
+    "target_image": "data/vqa_rad_images/test/0178.jpg",
+    "source_image": "data/images/slake/imgs/xmlab152/source.jpg",
+    "question": "Are there abnormalities in this image?"
+  },
+  {
+    "sample_id": "pope_xn_00189",
+    "target_image": "data/vqa_rad_images/test/0179.jpg",
+    "source_image": "data/images/slake/imgs/xmlab130/source.jpg",
+    "question": "Are there abnormalities in this image?"
+  },
+  {
+    "sample_id": "pope_xn_00190",
+    "target_image": "data/vqa_rad_images/test/0180.jpg",
+    "source_image": "data/vqa_rad_images/test/0414.jpg",
+    "question": "does this look like a healthy liver?"
+  },
+  {
+    "sample_id": "pope_xn_00191",
+    "target_image": "data/vqa_rad_images/test/0181.jpg",
+    "source_image": "data/vqa_rad_images/test/0224.jpg",
+    "question": "is the outline of visceral pleura visible in the upper left lung field?"
+  },
+  {
+    "sample_id": "pope_xn_00192",
+    "target_image": "data/vqa_rad_images/test/0185.jpg",
+    "source_image": "data/vqa_rad_images/test/0284.jpg",
+    "question": "is this image abnormal?"
+  },
+  {
+    "sample_id": "pope_xn_00193",
+    "target_image": "data/vqa_rad_images/test/0186.jpg",
+    "source_image": "data/images/slake/imgs/xmlab405/source.jpg",
+    "question": "Does the ears exist in this picture?"
+  },
+  {
+    "sample_id": "pope_xn_00194",
+    "target_image": "data/vqa_rad_images/test/0188.jpg",
+    "source_image": "data/vqa_rad_images/test/0300.jpg",
+    "question": "are there ekg leads on this patient?"
+  },
+  {
+    "sample_id": "pope_xn_00195",
+    "target_image": "data/vqa_rad_images/test/0190.jpg",
+    "source_image": "data/vqa_rad_images/test/0068.jpg",
+    "question": "is there a small bowel obstruction?"
+  },
+  {
+    "sample_id": "pope_xn_00196",
+    "target_image": "data/vqa_rad_images/test/0194.jpg",
+    "source_image": "data/images/slake/imgs/xmlab361/source.jpg",
+    "question": "Is the lung abnormal?"
+  },
+  {
+    "sample_id": "pope_xn_00197",
+    "target_image": "data/vqa_rad_images/test/0195.jpg",
+    "source_image": "data/vqa_rad_images/test/0347.jpg",
+    "question": "is this an axial view of the brain?"
+  },
+  {
+    "sample_id": "pope_xn_00198",
+    "target_image": "data/vqa_rad_images/test/0196.jpg",
+    "source_image": "data/images/slake/imgs/xmlab252/source.jpg",
+    "question": "Does the picture contain liver?"
+  },
+  {
+    "sample_id": "pope_xn_00199",
+    "target_image": "data/vqa_rad_images/test/0197.jpg",
+    "source_image": "data/vqa_rad_images/test/0212.jpg",
+    "question": "is there a left apical pneumothorax?"
+  },
+  {
+    "sample_id": "pope_xn_00200",
+    "target_image": "data/vqa_rad_images/test/0199.jpg",
+    "source_image": "data/images/slake/imgs/xmlab314/source.jpg",
+    "question": "Is this image taken via X-Ray?"
+  },
+  {
+    "sample_id": "pope_xn_00201",
+    "target_image": "data/vqa_rad_images/test/0200.jpg",
+    "source_image": "data/images/slake/imgs/xmlab90/source.jpg",
+    "question": "Does the picture contain heart?"
+  },
+  {
+    "sample_id": "pope_xn_00202",
+    "target_image": "data/vqa_rad_images/test/0201.jpg",
+    "source_image": "data/images/slake/imgs/xmlab152/source.jpg",
+    "question": "Are there abnormalities in this image?"
+  },
+  {
+    "sample_id": "pope_xn_00203",
+    "target_image": "data/vqa_rad_images/test/0202.jpg",
+    "source_image": "data/vqa_rad_images/test/0188.jpg",
+    "question": "can a patient with a metal implant get a cxr?"
+  },
+  {
+    "sample_id": "pope_xn_00204",
+    "target_image": "data/vqa_rad_images/test/0203.jpg",
+    "source_image": "data/images/slake/imgs/xmlab147/source.jpg",
+    "question": "Are there abnormalities in this image?"
+  },
+  {
+    "sample_id": "pope_xn_00205",
+    "target_image": "data/vqa_rad_images/test/0204.jpg",
+    "source_image": "data/images/slake/imgs/xmlab314/source.jpg",
+    "question": "Does the lung look abnormal?"
+  },
+  {
+    "sample_id": "pope_xn_00206",
+    "target_image": "data/vqa_rad_images/test/0205.jpg",
+    "source_image": "data/images/slake/imgs/xmlab314/source.jpg",
+    "question": "Can pneumonia be observed on the right lung in this picture?"
+  },
+  {
+    "sample_id": "pope_xn_00207",
+    "target_image": "data/vqa_rad_images/test/0206.jpg",
+    "source_image": "data/vqa_rad_images/test/0079.jpg",
+    "question": "are there hyper attenuating material along the aortic walls?"
+  },
+  {
+    "sample_id": "pope_xn_00208",
+    "target_image": "data/vqa_rad_images/test/0207.jpg",
+    "source_image": "data/images/slake/imgs/xmlab311/source.jpg",
+    "question": "Is the lung abnormal?"
+  },
+  {
+    "sample_id": "pope_xn_00209",
+    "target_image": "data/vqa_rad_images/test/0212.jpg",
+    "source_image": "data/images/slake/imgs/xmlab208/source.jpg",
+    "question": "Does the picture contain liver?"
+  },
+  {
+    "sample_id": "pope_xn_00210",
+    "target_image": "data/vqa_rad_images/test/0213.jpg",
+    "source_image": "data/vqa_rad_images/test/0073.jpg",
+    "question": "are there increased vascular markings"
+  },
+  {
+    "sample_id": "pope_xn_00211",
+    "target_image": "data/vqa_rad_images/test/0214.jpg",
+    "source_image": "data/vqa_rad_images/test/0178.jpg",
+    "question": "can a mass in the pancreatic head cause a liver injury?"
+  },
+  {
+    "sample_id": "pope_xn_00212",
+    "target_image": "data/vqa_rad_images/test/0215.jpg",
+    "source_image": "data/images/slake/imgs/xmlab548/source.jpg",
+    "question": "Does the picture contain the organ which has the effect of detoxicating?"
+  },
+  {
+    "sample_id": "pope_xn_00213",
+    "target_image": "data/vqa_rad_images/test/0216.jpg",
+    "source_image": "data/images/slake/imgs/xmlab548/source.jpg",
+    "question": "Does the picture contain the organ which has the effect of detoxicating?"
+  },
+  {
+    "sample_id": "pope_xn_00214",
+    "target_image": "data/vqa_rad_images/test/0217.jpg",
+    "source_image": "data/images/slake/imgs/xmlab378/source.jpg",
+    "question": "Is/Are there abnormalities in the patient's left lung?"
+  },
+  {
+    "sample_id": "pope_xn_00215",
+    "target_image": "data/vqa_rad_images/test/0218.jpg",
+    "source_image": "data/vqa_rad_images/test/0278.jpg",
+    "question": "is the abdominal aorta within normal size limits?"
+  },
+  {
+    "sample_id": "pope_xn_00216",
+    "target_image": "data/vqa_rad_images/test/0219.jpg",
+    "source_image": "data/vqa_rad_images/test/0068.jpg",
+    "question": "is there a small bowel obstruction?"
+  },
+  {
+    "sample_id": "pope_xn_00217",
+    "target_image": "data/vqa_rad_images/test/0220.jpg",
+    "source_image": "data/images/slake/imgs/xmlab219/source.jpg",
+    "question": "Does the picture contain liver?"
+  },
+  {
+    "sample_id": "pope_xn_00218",
+    "target_image": "data/vqa_rad_images/test/0224.jpg",
+    "source_image": "data/images/slake/imgs/xmlab447/source.jpg",
+    "question": "Is the tumor enhancing?"
+  },
+  {
+    "sample_id": "pope_xn_00219",
+    "target_image": "data/vqa_rad_images/test/0226.jpg",
+    "source_image": "data/vqa_rad_images/test/0034.jpg",
+    "question": "can fluids be highlighted with this modality?"
+  },
+  {
+    "sample_id": "pope_xn_00220",
+    "target_image": "data/vqa_rad_images/test/0227.jpg",
+    "source_image": "data/images/slake/imgs/xmlab436/source.jpg",
+    "question": "Do the organs in the image exist in the head?"
+  },
+  {
+    "sample_id": "pope_xn_00221",
+    "target_image": "data/vqa_rad_images/test/0229.jpg",
+    "source_image": "data/vqa_rad_images/test/0052.jpg",
+    "question": "is there hylar lymphadenopathy?"
+  },
+  {
+    "sample_id": "pope_xn_00222",
+    "target_image": "data/vqa_rad_images/test/0230.jpg",
+    "source_image": "data/vqa_rad_images/test/0069.jpg",
+    "question": "is there brain edema"
+  },
+  {
+    "sample_id": "pope_xn_00223",
+    "target_image": "data/vqa_rad_images/test/0231.jpg",
+    "source_image": "data/vqa_rad_images/test/0226.jpg",
+    "question": "is the heart enlarged?"
+  },
+  {
+    "sample_id": "pope_xn_00224",
+    "target_image": "data/vqa_rad_images/test/0235.jpg",
+    "source_image": "data/images/slake/imgs/xmlab378/source.jpg",
+    "question": "Can infiltration be observed on the lower left lung in this picture?"
+  },
+  {
+    "sample_id": "pope_xn_00225",
+    "target_image": "data/vqa_rad_images/test/0237.jpg",
+    "source_image": "data/vqa_rad_images/test/0115.jpg",
+    "question": "is the trachea midline?"
+  },
+  {
+    "sample_id": "pope_xn_00226",
+    "target_image": "data/vqa_rad_images/test/0238.jpg",
+    "source_image": "data/images/slake/imgs/xmlab374/source.jpg",
+    "question": "Is this a coronal plane?"
+  },
+  {
+    "sample_id": "pope_xn_00227",
+    "target_image": "data/vqa_rad_images/test/0243.jpg",
+    "source_image": "data/vqa_rad_images/test/0107.jpg",
+    "question": "is there an acute infarction?"
+  },
+  {
+    "sample_id": "pope_xn_00228",
+    "target_image": "data/vqa_rad_images/test/0244.jpg",
+    "source_image": "data/vqa_rad_images/test/0261.jpg",
+    "question": "is there biliary duct dilation?"
+  },
+  {
+    "sample_id": "pope_xn_00229",
+    "target_image": "data/vqa_rad_images/test/0245.jpg",
+    "source_image": "data/vqa_rad_images/test/0437.jpg",
+    "question": "is the gallbladder present?"
+  },
+  {
+    "sample_id": "pope_xn_00230",
+    "target_image": "data/vqa_rad_images/test/0246.jpg",
+    "source_image": "data/images/slake/imgs/xmlab71/source.jpg",
+    "question": "Does the picture contain brian?"
+  },
+  {
+    "sample_id": "pope_xn_00231",
+    "target_image": "data/vqa_rad_images/test/0247.jpg",
+    "source_image": "data/images/slake/imgs/xmlab483/source.jpg",
+    "question": "Is this a study of the head?"
+  },
+  {
+    "sample_id": "pope_xn_00232",
+    "target_image": "data/vqa_rad_images/test/0248.jpg",
+    "source_image": "data/images/slake/imgs/xmlab469/source.jpg",
+    "question": "Is this a study of the head?"
+  },
+  {
+    "sample_id": "pope_xn_00233",
+    "target_image": "data/vqa_rad_images/test/0249.jpg",
+    "source_image": "data/vqa_rad_images/test/0423.jpg",
+    "question": "are lung markings present in the entire thoracic cavity?"
+  },
+  {
+    "sample_id": "pope_xn_00234",
+    "target_image": "data/vqa_rad_images/test/0253.jpg",
+    "source_image": "data/vqa_rad_images/test/0068.jpg",
+    "question": "is there a small bowel obstruction?"
+  },
+  {
+    "sample_id": "pope_xn_00235",
+    "target_image": "data/vqa_rad_images/test/0254.jpg",
+    "source_image": "data/vqa_rad_images/test/0341.jpg",
+    "question": "is the appendix normal in size?"
+  },
+  {
+    "sample_id": "pope_xn_00236",
+    "target_image": "data/vqa_rad_images/test/0255.jpg",
+    "source_image": "data/images/slake/imgs/xmlab427/source.jpg",
+    "question": "Does the picture contain the organ which has the effect of gas delivery?"
+  },
+  {
+    "sample_id": "pope_xn_00237",
+    "target_image": "data/vqa_rad_images/test/0256.jpg",
+    "source_image": "data/images/slake/imgs/xmlab525/source.jpg",
+    "question": "Do the organs in the image exist in the head?"
+  },
+  {
+    "sample_id": "pope_xn_00238",
+    "target_image": "data/vqa_rad_images/test/0257.jpg",
+    "source_image": "data/images/slake/imgs/xmlab405/source.jpg",
+    "question": "Does the ears exist in this picture?"
+  },
+  {
+    "sample_id": "pope_xn_00239",
+    "target_image": "data/vqa_rad_images/test/0259.jpg",
+    "source_image": "data/images/slake/imgs/xmlab77/source.jpg",
+    "question": "Does the picture contain brian?"
+  },
+  {
+    "sample_id": "pope_xn_00240",
+    "target_image": "data/vqa_rad_images/test/0260.jpg",
+    "source_image": "data/vqa_rad_images/test/0058.jpg",
+    "question": "is there fluid in the lung?"
+  },
+  {
+    "sample_id": "pope_xn_00241",
+    "target_image": "data/vqa_rad_images/test/0261.jpg",
+    "source_image": "data/images/slake/imgs/xmlab385/source.jpg",
+    "question": "Does the patient have any abnormalities?"
+  },
+  {
+    "sample_id": "pope_xn_00242",
+    "target_image": "data/vqa_rad_images/test/0263.jpg",
+    "source_image": "data/vqa_rad_images/test/0124.jpg",
+    "question": "is the cardiac silhouette less than half the diameter of the diaphragm?"
+  },
+  {
+    "sample_id": "pope_xn_00243",
+    "target_image": "data/vqa_rad_images/test/0264.jpg",
+    "source_image": "data/vqa_rad_images/test/0109.jpg",
+    "question": "is this a ct?"
+  },
+  {
+    "sample_id": "pope_xn_00244",
+    "target_image": "data/vqa_rad_images/test/0265.jpg",
+    "source_image": "data/vqa_rad_images/test/0275.jpg",
+    "question": "is there contrast in the patient's small bowel?"
+  },
+  {
+    "sample_id": "pope_xn_00245",
+    "target_image": "data/vqa_rad_images/test/0266.jpg",
+    "source_image": "data/images/slake/imgs/xmlab252/source.jpg",
+    "question": "Does the picture contain kidney?"
+  },
+  {
+    "sample_id": "pope_xn_00246",
+    "target_image": "data/vqa_rad_images/test/0267.jpg",
+    "source_image": "data/images/slake/imgs/xmlab580/source.jpg",
+    "question": "Is this a study of the abdomen?"
+  },
+  {
+    "sample_id": "pope_xn_00247",
+    "target_image": "data/vqa_rad_images/test/0268.jpg",
+    "source_image": "data/images/slake/imgs/xmlab469/source.jpg",
+    "question": "Is there evidence of a brain edema?"
+  },
+  {
+    "sample_id": "pope_xn_00248",
+    "target_image": "data/vqa_rad_images/test/0269.jpg",
+    "source_image": "data/images/slake/imgs/xmlab385/source.jpg",
+    "question": "Does the patient have any abnormalities?"
+  },
+  {
+    "sample_id": "pope_xn_00249",
+    "target_image": "data/vqa_rad_images/test/0271.jpg",
+    "source_image": "data/vqa_rad_images/test/0437.jpg",
+    "question": "is the gallbladder present?"
+  },
+  {
+    "sample_id": "pope_xn_00250",
+    "target_image": "data/vqa_rad_images/test/0272.jpg",
+    "source_image": "data/images/slake/imgs/xmlab447/source.jpg",
+    "question": "Is the tumor enhancing?"
+  },
+  {
+    "sample_id": "pope_xn_00251",
+    "target_image": "data/vqa_rad_images/test/0275.jpg",
+    "source_image": "data/vqa_rad_images/test/0368.jpg",
+    "question": "is this in the posterior anterior plane?"
+  },
+  {
+    "sample_id": "pope_xn_00252",
+    "target_image": "data/vqa_rad_images/test/0277.jpg",
+    "source_image": "data/vqa_rad_images/test/0407.jpg",
+    "question": "are >12 ribs present in the image?"
+  },
+  {
+    "sample_id": "pope_xn_00253",
+    "target_image": "data/vqa_rad_images/test/0278.jpg",
+    "source_image": "data/images/slake/imgs/xmlab513/source.jpg",
+    "question": "Do the organs in the image exist in the head?"
+  },
+  {
+    "sample_id": "pope_xn_00254",
+    "target_image": "data/vqa_rad_images/test/0279.jpg",
+    "source_image": "data/images/slake/imgs/xmlab253/source.jpg",
+    "question": "Does the picture contain liver?"
+  },
+  {
+    "sample_id": "pope_xn_00255",
+    "target_image": "data/vqa_rad_images/test/0280.jpg",
+    "source_image": "data/vqa_rad_images/test/0157.jpg",
+    "question": "is the cardiac silhouette small/stretched"
+  },
+  {
+    "sample_id": "pope_xn_00256",
+    "target_image": "data/vqa_rad_images/test/0281.jpg",
+    "source_image": "data/images/slake/imgs/xmlab538/source.jpg",
+    "question": "Does the picture contain the organ which has the effect of discharging waste?"
+  },
+  {
+    "sample_id": "pope_xn_00257",
+    "target_image": "data/vqa_rad_images/test/0283.jpg",
+    "source_image": "data/images/slake/imgs/xmlab525/source.jpg",
+    "question": "Is this an MRI image with T2 weighted?"
+  },
+  {
+    "sample_id": "pope_xn_00258",
+    "target_image": "data/vqa_rad_images/test/0284.jpg",
+    "source_image": "data/images/slake/imgs/xmlab24/source.jpg",
+    "question": "Does the picture contain spleen?"
+  },
+  {
+    "sample_id": "pope_xn_00259",
+    "target_image": "data/vqa_rad_images/test/0285.jpg",
+    "source_image": "data/images/slake/imgs/xmlab548/source.jpg",
+    "question": "Does the picture contain the organ which has the effect of adjusting water and osmotic pressure balance?"
+  },
+  {
+    "sample_id": "pope_xn_00260",
+    "target_image": "data/vqa_rad_images/test/0287.jpg",
+    "source_image": "data/vqa_rad_images/test/0109.jpg",
+    "question": "is this a ct?"
+  },
+  {
+    "sample_id": "pope_xn_00261",
+    "target_image": "data/vqa_rad_images/test/0288.jpg",
+    "source_image": "data/images/slake/imgs/xmlab269/source.jpg",
+    "question": "Does the picture contain spleen?"
+  },
+  {
+    "sample_id": "pope_xn_00262",
+    "target_image": "data/vqa_rad_images/test/0289.jpg",
+    "source_image": "data/vqa_rad_images/test/0010.jpg",
+    "question": "is this an axial image?"
+  },
+  {
+    "sample_id": "pope_xn_00263",
+    "target_image": "data/vqa_rad_images/test/0290.jpg",
+    "source_image": "data/images/slake/imgs/xmlab429/source.jpg",
+    "question": "Does the picture contain spinal cord?"
+  },
+  {
+    "sample_id": "pope_xn_00264",
+    "target_image": "data/vqa_rad_images/test/0291.jpg",
+    "source_image": "data/images/slake/imgs/xmlab350/source.jpg",
+    "question": "Do the organs in the image exist in the chest?"
+  },
+  {
+    "sample_id": "pope_xn_00265",
+    "target_image": "data/vqa_rad_images/test/0292.jpg",
+    "source_image": "data/vqa_rad_images/test/0303.jpg",
+    "question": "are the nodules well circumscribed?"
+  },
+  {
+    "sample_id": "pope_xn_00266",
+    "target_image": "data/vqa_rad_images/test/0293.jpg",
+    "source_image": "data/images/slake/imgs/xmlab605/source.jpg",
+    "question": "Does the picture contain rectum?"
+  },
+  {
+    "sample_id": "pope_xn_00267",
+    "target_image": "data/vqa_rad_images/test/0294.jpg",
+    "source_image": "data/vqa_rad_images/test/0328.jpg",
+    "question": "are the costophrenic angles preserved?"
+  },
+  {
+    "sample_id": "pope_xn_00268",
+    "target_image": "data/vqa_rad_images/test/0297.jpg",
+    "source_image": "data/images/slake/imgs/xmlab374/source.jpg",
+    "question": "Does the lung look abnormal?"
+  },
+  {
+    "sample_id": "pope_xn_00269",
+    "target_image": "data/vqa_rad_images/test/0298.jpg",
+    "source_image": "data/vqa_rad_images/test/0100.jpg",
+    "question": "is the lesion wedge-shaped?"
+  },
+  {
+    "sample_id": "pope_xn_00270",
+    "target_image": "data/vqa_rad_images/test/0300.jpg",
+    "source_image": "data/vqa_rad_images/test/0204.jpg",
+    "question": "is there any abnormality in this image?"
+  },
+  {
+    "sample_id": "pope_xn_00271",
+    "target_image": "data/vqa_rad_images/test/0301.jpg",
+    "source_image": "data/images/slake/imgs/xmlab274/source.jpg",
+    "question": "Does the picture contain liver?"
+  },
+  {
+    "sample_id": "pope_xn_00272",
+    "target_image": "data/vqa_rad_images/test/0302.jpg",
+    "source_image": "data/images/slake/imgs/xmlab269/source.jpg",
+    "question": "Does the picture contain liver?"
+  },
+  {
+    "sample_id": "pope_xn_00273",
+    "target_image": "data/vqa_rad_images/test/0303.jpg",
+    "source_image": "data/vqa_rad_images/test/0001.jpg",
+    "question": "is there airspace consolidation on the left side?"
+  },
+  {
+    "sample_id": "pope_xn_00274",
+    "target_image": "data/vqa_rad_images/test/0304.jpg",
+    "source_image": "data/vqa_rad_images/test/0056.jpg",
+    "question": "is there cardiomegaly?"
+  },
+  {
+    "sample_id": "pope_xn_00275",
+    "target_image": "data/vqa_rad_images/test/0305.jpg",
+    "source_image": "data/images/slake/imgs/xmlab13/source.jpg",
+    "question": "Does the picture contain spleen?"
+  },
+  {
+    "sample_id": "pope_xn_00276",
+    "target_image": "data/vqa_rad_images/test/0308.jpg",
+    "source_image": "data/vqa_rad_images/test/0279.jpg",
+    "question": "is the left lung field more radioopaque than the right side?"
+  },
+  {
+    "sample_id": "pope_xn_00277",
+    "target_image": "data/vqa_rad_images/test/0312.jpg",
+    "source_image": "data/images/slake/imgs/xmlab367/source.jpg",
+    "question": "Are there abnormalities in this image?"
+  },
+  {
+    "sample_id": "pope_xn_00278",
+    "target_image": "data/vqa_rad_images/test/0314.jpg",
+    "source_image": "data/images/slake/imgs/xmlab375/source.jpg",
+    "question": "Is this a study of the chest?"
+  },
+  {
+    "sample_id": "pope_xn_00279",
+    "target_image": "data/vqa_rad_images/test/0315.jpg",
+    "source_image": "data/images/slake/imgs/xmlab208/source.jpg",
+    "question": "Does the picture contain liver?"
+  },
+  {
+    "sample_id": "pope_xn_00280",
+    "target_image": "data/vqa_rad_images/test/0318.jpg",
+    "source_image": "data/images/slake/imgs/xmlab253/source.jpg",
+    "question": "Does this image look normal?"
+  },
+  {
+    "sample_id": "pope_xn_00281",
+    "target_image": "data/vqa_rad_images/test/0319.jpg",
+    "source_image": "data/images/slake/imgs/xmlab344/source.jpg",
+    "question": "Can nodule be observed on the upper right lung in this picture?"
+  },
+  {
+    "sample_id": "pope_xn_00282",
+    "target_image": "data/vqa_rad_images/test/0321.jpg",
+    "source_image": "data/images/slake/imgs/xmlab314/source.jpg",
+    "question": "Is this image taken via X-Ray?"
+  },
+  {
+    "sample_id": "pope_xn_00283",
+    "target_image": "data/vqa_rad_images/test/0324.jpg",
+    "source_image": "data/images/slake/imgs/xmlab428/source.jpg",
+    "question": "Do any of the organs in the picture belong to the nervous system?"
+  },
+  {
+    "sample_id": "pope_xn_00284",
+    "target_image": "data/vqa_rad_images/test/0325.jpg",
+    "source_image": "data/vqa_rad_images/test/0064.jpg",
+    "question": "is a mass present in this xray?"
+  },
+  {
+    "sample_id": "pope_xn_00285",
+    "target_image": "data/vqa_rad_images/test/0326.jpg",
+    "source_image": "data/images/slake/imgs/xmlab320/source.jpg",
+    "question": "Can cardiomegaly be observed on the heart in this picture?"
+  },
+  {
+    "sample_id": "pope_xn_00286",
+    "target_image": "data/vqa_rad_images/test/0328.jpg",
+    "source_image": "data/images/slake/imgs/xmlab629/source.jpg",
+    "question": "Is there colon in the image?"
+  },
+  {
+    "sample_id": "pope_xn_00287",
+    "target_image": "data/vqa_rad_images/test/0329.jpg",
+    "source_image": "data/images/slake/imgs/xmlab622/source.jpg",
+    "question": "Does the picture contain colon?"
+  },
+  {
+    "sample_id": "pope_xn_00288",
+    "target_image": "data/vqa_rad_images/test/0330.jpg",
+    "source_image": "data/images/slake/imgs/xmlab529/source.jpg",
+    "question": "Is this an MRI scan?"
+  },
+  {
+    "sample_id": "pope_xn_00289",
+    "target_image": "data/vqa_rad_images/test/0331.jpg",
+    "source_image": "data/images/slake/imgs/xmlab312/source.jpg",
+    "question": "Does the patient have any abnormalities?"
+  },
+  {
+    "sample_id": "pope_xn_00290",
+    "target_image": "data/vqa_rad_images/test/0334.jpg",
+    "source_image": "data/images/slake/imgs/xmlab386/source.jpg",
+    "question": "Do the organs in the image exist in the chest?"
+  },
+  {
+    "sample_id": "pope_xn_00291",
+    "target_image": "data/vqa_rad_images/test/0336.jpg",
+    "source_image": "data/images/slake/imgs/xmlab219/source.jpg",
+    "question": "Does this image look normal?"
+  },
+  {
+    "sample_id": "pope_xn_00292",
+    "target_image": "data/vqa_rad_images/test/0340.jpg",
+    "source_image": "data/images/slake/imgs/xmlab219/source.jpg",
+    "question": "Does the picture contain liver?"
+  },
+  {
+    "sample_id": "pope_xn_00293",
+    "target_image": "data/vqa_rad_images/test/0341.jpg",
+    "source_image": "data/vqa_rad_images/test/0174.jpg",
+    "question": "is the trachea midline?"
+  },
+  {
+    "sample_id": "pope_xn_00294",
+    "target_image": "data/vqa_rad_images/test/0342.jpg",
+    "source_image": "data/vqa_rad_images/test/0063.jpg",
+    "question": "is there a mass"
+  },
+  {
+    "sample_id": "pope_xn_00295",
+    "target_image": "data/vqa_rad_images/test/0343.jpg",
+    "source_image": "data/images/slake/imgs/xmlab473/source.jpg",
+    "question": "Is this a transverse section?"
+  },
+  {
+    "sample_id": "pope_xn_00296",
+    "target_image": "data/vqa_rad_images/test/0347.jpg",
+    "source_image": "data/vqa_rad_images/test/0207.jpg",
+    "question": "are there clearly defined cardiac borders in this image?"
+  },
+  {
+    "sample_id": "pope_xn_00297",
+    "target_image": "data/vqa_rad_images/test/0348.jpg",
+    "source_image": "data/vqa_rad_images/test/0423.jpg",
+    "question": "are lung markings present in the entire thoracic cavity?"
+  },
+  {
+    "sample_id": "pope_xn_00298",
+    "target_image": "data/vqa_rad_images/test/0349.jpg",
+    "source_image": "data/vqa_rad_images/test/0100.jpg",
+    "question": "is the lesion wedge-shaped?"
+  },
+  {
+    "sample_id": "pope_xn_00299",
+    "target_image": "data/vqa_rad_images/test/0350.jpg",
+    "source_image": "data/images/slake/imgs/xmlab350/source.jpg",
+    "question": "Is this a coronal plane?"
+  },
+  {
+    "sample_id": "pope_xn_00300",
+    "target_image": "data/vqa_rad_images/test/0355.jpg",
+    "source_image": "data/images/slake/imgs/xmlab378/source.jpg",
+    "question": "Can infiltration be observed on the lower left lung in this picture?"
+  },
+  {
+    "sample_id": "pope_xn_00301",
+    "target_image": "data/vqa_rad_images/test/0356.jpg",
+    "source_image": "data/images/slake/imgs/xmlab548/source.jpg",
+    "question": "Does the lung exist in this picture?"
+  },
+  {
+    "sample_id": "pope_xn_00302",
+    "target_image": "data/vqa_rad_images/test/0362.jpg",
+    "source_image": "data/vqa_rad_images/test/0178.jpg",
+    "question": "can a mass in the pancreatic head cause a liver injury?"
+  },
+  {
+    "sample_id": "pope_xn_00303",
+    "target_image": "data/vqa_rad_images/test/0364.jpg",
+    "source_image": "data/images/slake/imgs/xmlab548/source.jpg",
+    "question": "Does the picture contain the organ which has the effect of adjusting water and osmotic pressure balance?"
+  },
+  {
+    "sample_id": "pope_xn_00304",
+    "target_image": "data/vqa_rad_images/test/0365.jpg",
+    "source_image": "data/vqa_rad_images/test/0157.jpg",
+    "question": "is the cardiac silhouette small/stretched"
+  },
+  {
+    "sample_id": "pope_xn_00305",
+    "target_image": "data/vqa_rad_images/test/0368.jpg",
+    "source_image": "data/images/slake/imgs/xmlab219/source.jpg",
+    "question": "Does the picture contain heart?"
+  },
+  {
+    "sample_id": "pope_xn_00306",
+    "target_image": "data/vqa_rad_images/test/0372.jpg",
+    "source_image": "data/vqa_rad_images/test/0347.jpg",
+    "question": "is this an axial view of the brain?"
+  },
+  {
+    "sample_id": "pope_xn_00307",
+    "target_image": "data/vqa_rad_images/test/0373.jpg",
+    "source_image": "data/vqa_rad_images/test/0290.jpg",
+    "question": "is the left lung field more white?"
+  },
+  {
+    "sample_id": "pope_xn_00308",
+    "target_image": "data/vqa_rad_images/test/0380.jpg",
+    "source_image": "data/images/slake/imgs/xmlab385/source.jpg",
+    "question": "Is this a coronal section?"
+  },
+  {
+    "sample_id": "pope_xn_00309",
+    "target_image": "data/vqa_rad_images/test/0381.jpg",
+    "source_image": "data/vqa_rad_images/test/0264.jpg",
+    "question": "is there contrast used?"
+  },
+  {
+    "sample_id": "pope_xn_00310",
+    "target_image": "data/vqa_rad_images/test/0382.jpg",
+    "source_image": "data/images/slake/imgs/xmlab103/source.jpg",
+    "question": "Does the picture contain lung?"
+  },
+  {
+    "sample_id": "pope_xn_00311",
+    "target_image": "data/vqa_rad_images/test/0383.jpg",
+    "source_image": "data/images/slake/imgs/xmlab208/source.jpg",
+    "question": "Does the picture contain liver?"
+  },
+  {
+    "sample_id": "pope_xn_00312",
+    "target_image": "data/vqa_rad_images/test/0388.jpg",
+    "source_image": "data/images/slake/imgs/xmlab312/source.jpg",
+    "question": "Does the patient have any abnormalities?"
+  },
+  {
+    "sample_id": "pope_xn_00313",
+    "target_image": "data/vqa_rad_images/test/0389.jpg",
+    "source_image": "data/images/slake/imgs/xmlab24/source.jpg",
+    "question": "Does the picture contain liver?"
+  },
+  {
+    "sample_id": "pope_xn_00314",
+    "target_image": "data/vqa_rad_images/test/0391.jpg",
+    "source_image": "data/vqa_rad_images/test/0275.jpg",
+    "question": "is there contrast in the patient's small bowel?"
+  },
+  {
+    "sample_id": "pope_xn_00315",
+    "target_image": "data/vqa_rad_images/test/0392.jpg",
+    "source_image": "data/vqa_rad_images/test/0261.jpg",
+    "question": "is there biliary duct dilation?"
+  },
+  {
+    "sample_id": "pope_xn_00316",
+    "target_image": "data/vqa_rad_images/test/0396.jpg",
+    "source_image": "data/vqa_rad_images/test/0063.jpg",
+    "question": "is there a mass"
+  },
+  {
+    "sample_id": "pope_xn_00317",
+    "target_image": "data/vqa_rad_images/test/0401.jpg",
+    "source_image": "data/vqa_rad_images/test/0279.jpg",
+    "question": "is the left lung field more radioopaque than the right side?"
+  },
+  {
+    "sample_id": "pope_xn_00318",
+    "target_image": "data/vqa_rad_images/test/0402.jpg",
+    "source_image": "data/images/slake/imgs/xmlab58/source.jpg",
+    "question": "Does the picture contain brian?"
+  },
+  {
+    "sample_id": "pope_xn_00319",
+    "target_image": "data/vqa_rad_images/test/0404.jpg",
+    "source_image": "data/images/slake/imgs/xmlab18/source.jpg",
+    "question": "Does the picture contain kidney?"
+  },
+  {
+    "sample_id": "pope_xn_00320",
+    "target_image": "data/vqa_rad_images/test/0407.jpg",
+    "source_image": "data/images/slake/imgs/xmlab357/source.jpg",
+    "question": "Are there abnormalities in this image?"
+  },
+  {
+    "sample_id": "pope_xn_00321",
+    "target_image": "data/vqa_rad_images/test/0413.jpg",
+    "source_image": "data/images/slake/imgs/xmlab586/source.jpg",
+    "question": "Does the picture contain spinal cord?"
+  },
+  {
+    "sample_id": "pope_xn_00322",
+    "target_image": "data/vqa_rad_images/test/0414.jpg",
+    "source_image": "data/images/slake/imgs/xmlab311/source.jpg",
+    "question": "Is this a study of the chest?"
+  },
+  {
+    "sample_id": "pope_xn_00323",
+    "target_image": "data/vqa_rad_images/test/0415.jpg",
+    "source_image": "data/images/slake/imgs/xmlab142/source.jpg",
+    "question": "Are there abnormalities in this image?"
+  },
+  {
+    "sample_id": "pope_xn_00324",
+    "target_image": "data/vqa_rad_images/test/0416.jpg",
+    "source_image": "data/images/slake/imgs/xmlab338/source.jpg",
+    "question": "Can nodule be observed on the lower left lung in this picture?"
+  },
+  {
+    "sample_id": "pope_xn_00325",
+    "target_image": "data/vqa_rad_images/test/0417.jpg",
+    "source_image": "data/vqa_rad_images/test/0264.jpg",
+    "question": "is there contrast used?"
+  },
+  {
+    "sample_id": "pope_xn_00326",
+    "target_image": "data/vqa_rad_images/test/0418.jpg",
+    "source_image": "data/images/slake/imgs/xmlab13/source.jpg",
+    "question": "Does the picture contain liver?"
+  },
+  {
+    "sample_id": "pope_xn_00327",
+    "target_image": "data/vqa_rad_images/test/0420.jpg",
+    "source_image": "data/images/slake/imgs/xmlab429/source.jpg",
+    "question": "Do any of the organs in the picture belong to the nervous system?"
+  },
+  {
+    "sample_id": "pope_xn_00328",
+    "target_image": "data/vqa_rad_images/test/0421.jpg",
+    "source_image": "data/images/slake/imgs/xmlab185/source.jpg",
+    "question": "Are there abnormalities in this image?"
+  },
+  {
+    "sample_id": "pope_xn_00329",
+    "target_image": "data/vqa_rad_images/test/0422.jpg",
+    "source_image": "data/vqa_rad_images/test/0349.jpg",
+    "question": "is there a hypodensity located in the liver?"
+  },
+  {
+    "sample_id": "pope_xn_00330",
+    "target_image": "data/vqa_rad_images/test/0423.jpg",
+    "source_image": "data/images/slake/imgs/xmlab253/source.jpg",
+    "question": "Does the picture contain lung?"
+  },
+  {
+    "sample_id": "pope_xn_00331",
+    "target_image": "data/vqa_rad_images/test/0424.jpg",
+    "source_image": "data/images/slake/imgs/xmlab85/source.jpg",
+    "question": "Does the picture contain liver?"
+  },
+  {
+    "sample_id": "pope_xn_00332",
+    "target_image": "data/vqa_rad_images/test/0425.jpg",
+    "source_image": "data/images/slake/imgs/xmlab219/source.jpg",
+    "question": "Is the liver healthy?"
+  },
+  {
+    "sample_id": "pope_xn_00333",
+    "target_image": "data/vqa_rad_images/test/0427.jpg",
+    "source_image": "data/vqa_rad_images/test/0288.jpg",
+    "question": "are the kidney present?"
+  },
+  {
+    "sample_id": "pope_xn_00334",
+    "target_image": "data/vqa_rad_images/test/0429.jpg",
+    "source_image": "data/vqa_rad_images/test/0283.jpg",
+    "question": "is pneumo intestinalis present?"
+  },
+  {
+    "sample_id": "pope_xn_00335",
+    "target_image": "data/vqa_rad_images/test/0431.jpg",
+    "source_image": "data/vqa_rad_images/test/0365.jpg",
+    "question": "is there flattening of the left hemidiaphragm?"
+  },
+  {
+    "sample_id": "pope_xn_00336",
+    "target_image": "data/vqa_rad_images/test/0432.jpg",
+    "source_image": "data/images/slake/imgs/xmlab525/source.jpg",
+    "question": "Do the organs in the image exist in the head?"
+  },
+  {
+    "sample_id": "pope_xn_00337",
+    "target_image": "data/vqa_rad_images/test/0433.jpg",
+    "source_image": "data/images/slake/imgs/xmlab367/source.jpg",
+    "question": "Is this image taken via X-Ray?"
+  },
+  {
+    "sample_id": "pope_xn_00338",
+    "target_image": "data/vqa_rad_images/test/0435.jpg",
+    "source_image": "data/images/slake/imgs/xmlab350/source.jpg",
+    "question": "Do the organs in the image exist in the chest?"
+  },
+  {
+    "sample_id": "pope_xn_00339",
+    "target_image": "data/vqa_rad_images/test/0436.jpg",
+    "source_image": "data/images/slake/imgs/xmlab85/source.jpg",
+    "question": "Does the lung look healthy?"
+  },
+  {
+    "sample_id": "pope_xn_00340",
+    "target_image": "data/vqa_rad_images/test/0437.jpg",
+    "source_image": "data/images/slake/imgs/xmlab385/source.jpg",
+    "question": "Is this a coronal section?"
+  },
+  {
+    "sample_id": "pope_xn_00341",
+    "target_image": "data/vqa_rad_images/test/0440.jpg",
+    "source_image": "data/vqa_rad_images/test/0441.jpg",
+    "question": "is there free air in the supraclavicular fossae?"
+  },
+  {
+    "sample_id": "pope_xn_00342",
+    "target_image": "data/vqa_rad_images/test/0441.jpg",
+    "source_image": "data/vqa_rad_images/test/0446.jpg",
+    "question": "is there subcutaneous air present in the right neck?"
+  },
+  {
+    "sample_id": "pope_xn_00343",
+    "target_image": "data/vqa_rad_images/test/0444.jpg",
+    "source_image": "data/images/slake/imgs/xmlab49/source.jpg",
+    "question": "Does the brain look abnormal?"
+  },
+  {
+    "sample_id": "pope_xn_00344",
+    "target_image": "data/vqa_rad_images/test/0446.jpg",
+    "source_image": "data/images/slake/imgs/xmlab580/source.jpg",
+    "question": "Is this a study of the abdomen?"
+  },
+  {
+    "sample_id": "pope_xn_00345",
+    "target_image": "data/vqa_rad_images/test/0447.jpg",
+    "source_image": "data/images/slake/imgs/xmlab561/source.jpg",
+    "question": "Are there organs in the picture that can adjust water and osmotic pressure balance?"
+  },
+  {
+    "sample_id": "pope_xn_00346",
+    "target_image": "data/vqa_rad_images/test/0449.jpg",
+    "source_image": "data/vqa_rad_images/test/0058.jpg",
+    "question": "is there fluid in the lung?"
+  }
+]
